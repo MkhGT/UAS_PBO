@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+body {
+    font-family: "Poppins", sans-serif;
+    background: #ececec;
+}
+
+.form-label {
+    font-size: 0.9rem; /* Ukuran font label */
+}
+.form-control {
+    font-size: 0.9rem; /* Ukuran font input */
+    padding: 0.6rem 1rem; /* Padding input */
+}
+.btn-lg {
+    font-size: 0.9rem; /* Ukuran font tombol */
+    padding: 0.5rem 1rem; /* Padding tombol */
+}
