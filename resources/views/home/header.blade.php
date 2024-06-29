@@ -16,9 +16,6 @@
                     <a class="nav-link" href="shop.html">Shop</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="why.html">Why Us</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" href="contact.html">Contact Us</a>
                 </li>
             </ul>
